@@ -2,11 +2,6 @@
 
 ## Crypto
 
-### Website about NavCoin static rewards
-
-Has a staking reward calculator, compares your stakes over a period (months, years).
-Explains what static rewards are and what the benefits of them are for the network
-
 ## Other
 
 ### Alexandria
