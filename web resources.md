@@ -12,6 +12,7 @@
 ### Flexbox
 
 - https://www.flexboxpatterns.com/ - Great tutorial/reference site, one of the best
+- https://flexbox.io/ - Good video tutorial series on flexbox
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
 - https://mastery.games/p/flexbox-zombies - Free 'coding game' for flexbox
 
