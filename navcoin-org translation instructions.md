@@ -2,8 +2,8 @@
 
 > This guide is for the Spanish translation, the same steps will work for other langauges but first we need to create the template files for you to translate so contact me (Matt) to get that done. I have a JS script `bootstrap-translation.js` that will duplicate the files for you, so use that if you know how.
 
-First make sure you're signed up and logged in to https://github.org.
-Then visit https://github.org/navcoin/navcoin-org.
+First make sure you're signed up and logged in to https://github.com.
+Then visit https://github.com/navcoin/navcoin-org.
 
 ## Duplicate the website's code
 
